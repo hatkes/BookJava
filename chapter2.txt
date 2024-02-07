@@ -1,2 +1,7 @@
 Chapter 2 
 New world
+
+
+edit: redo the intro
+now I am in master branch
+
